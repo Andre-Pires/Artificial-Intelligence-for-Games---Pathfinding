@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e0781e12b13132b45bf09c20fcd34d12
+labels:
+- AI
+- Scripting
+- FPS
+- RPG
+- Behavior
+- Pathfinding
+- BehaviorTrees
+- Sensors
+- Mecanim
+- Animation
+- Motion
+- RAIN
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
